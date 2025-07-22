@@ -39,3 +39,15 @@ Verizon default FUP_redirection_url = verizonfup.com
 Verizon default data_allowance = 5 GB
 Verizon default avg_speed_data_allowance = 79 Mbps
 Verizon default data_speed_video_stream = 199 Mbps
+
+Sprint default dnn = sprintdnn.com
+Verizon default FUP_redirection_url = sprintfup.com
+Sprint default data_allowance = 10 GB
+Sprint default avg_speed_data_allowance = 79 Mbps
+Sprint default data_speed_video_stream = 199 Mbps
+
+Metro default dnn = metrodnn.com
+Metro default FUP_redirection_url = metrofup.com
+Metro default data_allowance = 10 GB
+Metro default avg_speed_data_allowance = 79 Mbps
+Metro default data_speed_video_stream = 199 Mbps
