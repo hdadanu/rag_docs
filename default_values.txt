@@ -1,0 +1,41 @@
+Title:Default values of "dnn","data_allowance", "avg_speed_data_allowance","data_speed_video_stream","FUP_redirection_url"
+
+
+TMO default dnn = tmodnn.com
+TMO default FUP_redirection_url = tmofup.com
+TMO default data_allowance = 10 GB
+TMO default avg_speed_data_allowance = 59 Mbps
+TMO default data_speed_video_stream = 109 Mbps
+
+
+AT&T default dnn = attdnn.com
+AT&T default FUP_redirection_url = attfup.com
+AT&T default data_allowance = 5 GB
+AT&T default avg_speed_data_allowance = 49 Mbps
+AT&T default data_speed_video_stream = 109 Mbps
+
+Jio default dnn = jiodnn.com
+Jio default FUP_redirection_url = jiofup.com
+Jio default data_allowance = 5 GB
+Jio default avg_speed_data_allowance = 39 Mbps
+Jio default data_speed_video_stream = 99 Mbps
+
+Vodafone/Vi default dnn = vidnn.com
+Vodafone default FUP_redirection_url = vifup.com
+Vodafone default data_allowance = 5 GB
+Vodafone default avg_speed_data_allowance = 69 Mbps
+Vodafone default data_speed_video_stream = 99 Mbps
+
+
+Bharti default dnn = aiteldnn.com
+Bharti default FUP_redirection_url = airtelfup.com
+Bharti default data_allowance = 5 GB
+Bharti default avg_speed_data_allowance = 79 Mbps
+Bharti default data_speed_video_stream = 199 Mbps
+
+
+Verizon default dnn = verizondnn.com
+Verizon default FUP_redirection_url = verizonfup.com
+Verizon default data_allowance = 5 GB
+Verizon default avg_speed_data_allowance = 79 Mbps
+Verizon default data_speed_video_stream = 199 Mbps
